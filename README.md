@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
+### Hi there 👋
+
+#### Who am I?
+
 🔭 I’m the VP of Engineering at KEY ESG leading the implementation of a SaaS for measuring and improving Environment, Social and Governance metrics. <br><br>🌱 I’m currently learning serverless, various AWS technologies, some graphql and react native.<br><br>
 💬 I live two poodles (Roy and Trevor) and my wife, who is a talented dog groomer, so the boys overcompensate for my lack of hair. Most of my daily thoughts are about what to have for dinner, or mountain biking.
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/readikus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/readikus) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/readikus) 
 
 # 💻 Tech Stack:
