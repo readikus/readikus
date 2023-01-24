@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 #### Who am I?
 
-🔭 I’m the VP of Engineering at KEY ESG leading the implementation of a SaaS for measuring and improving Environment, Social and Governance metrics. <br><br>🌱 I’m currently learning serverless, various AWS technologies, some graphql and react native.<br><br>
+🔭 I’m the CTO at Blink SEO leading the implementation of a SaaS for automating and manging SEO campaigns for ecommerce. <br><br>🌱 I’m currently learning Airflow and various GCP technologies.<br><br>
 💬 I live two poodles (Roy and Trevor) and my wife, who is a talented dog groomer, so the boys overcompensate for my lack of hair. Most of my daily thoughts are about what to have for dinner, or mountain biking.
 
 ## 🌐 Socials
