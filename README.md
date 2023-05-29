@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 #### Who am I?
 
 🔭 I’m the CTO at Blink SEO leading the implementation of a SaaS for automating and manging SEO campaigns for ecommerce. <br><br>🌱 I’m currently learning Airflow and serverless GCP technologies.<br><br>
-💬 I live with two poodles (Roy and Trevor) and my wife, who is a talented dog groomer, so the boys overcompensate for my lack of hair. Most of my daily thoughts are about what to have for dinner, or mountain biking.
+
+🐩 I live with two poodles (Roy and Trevor) and my wife, who is a talented dog groomer, so the boys overcompensate for my lack of hair. Most of my daily thoughts are about what to have for dinner, or mountain biking.
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/readikus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/readikus) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/readikus) 
