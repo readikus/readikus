@@ -1,25 +1,6 @@
-
-<!--
 ### Hi there 👋
 
-**readikus/readikus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there 👋
-
-#### Who am I?
-
-🔭 I’m the CTO at Macaroni, which is a SaaS for automating and manging SEO campaigns for ecommerce. <br><br>🌱 I’m currently learning Airflow and serverless GCP technologies.<br><br>
+🔭 I’m Ian, and lead engineering at Macaroni, which is a SaaS for automating and manging SEO campaigns for eCommerce. <br><br>🌱 I’m currently looking at Remix, and hoping to do more Python again soon!<br><br>
 
 🐩 I live with two poodles (Roy and Trevor) and my wife, who is a talented dog groomer, so the boys overcompensate for my lack of hair. Most of my daily thoughts are about what to have for dinner, or mountain biking.
 
